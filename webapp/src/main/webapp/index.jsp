@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hai rangaswamy sir thank u for giving me this oppurtunity to learn devops,  !!! </h1>
+<h2> once again thank you by naveen </h2>
